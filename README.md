@@ -54,7 +54,7 @@ Este documento describe la estructura y componentes del sistema backend para el 
 
 ```
 git clone [https://github.com/libardo2s/finkargo-support-backend.git]
-cd support-case-backend
+cd finkargo-support-backend
 ```
 
 2. Crear entorno virtual: 
